@@ -2,6 +2,11 @@
 
 NFC Bridge是一个创新的Android应用系统,实现了银行卡信息的无线读取、传输与模拟功能。该系统由两个主要组件构成:读卡端和模拟端,通过网络连接实现数据的安全传输。
 
+
+![1747642761048](https://github.com/user-attachments/assets/012d138a-6033-430e-b157-b50ec69026ae)
+
+![IMG_8541](https://github.com/user-attachments/assets/d8b90670-2d28-4468-8cc6-72e0287f4474)
+
 ## 核心功能
 
 - **银行卡信息读取**:通过NFC技术读取EMV兼容的银行卡信息
