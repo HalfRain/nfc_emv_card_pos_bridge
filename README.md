@@ -1,0 +1,2 @@
+# nfc_emv_card_pos_bridge
+一个Android平台上的银行卡信息中继和模拟系统,通过NFC读取银行卡信息后,通过网络转发并模拟EMV卡片与POS设备交互。
