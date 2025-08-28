@@ -79,7 +79,9 @@ nfcbridge/
 如有任何问题或建议,请通过Issue或以下方式联系我,请注明来意:
 
 - Email: [weitengfei0212@gmail.com]
-- ✈️ :<img width="300" height="317" alt="wechat_2025-08-28_155843_282" src="https://github.com/user-attachments/assets/d3379e24-87a5-4435-a10e-44199c6bfcc8" />
-- Wechat:![IMG_9558](https://github.com/user-attachments/assets/c30cf81f-b340-48d5-803a-992474e12506)
+
+- ✈️ :<img width="300" height="317" alt="tel_2025-08-28_155843_282" src="https://github.com/user-attachments/assets/d3379e24-87a5-4435-a10e-44199c6bfcc8" />
+
+- Wechat:<img width="300" height="327" alt="wechat_2025-08-28_155843_282" src="https://github.com/user-attachments/assets/c30cf81f-b340-48d5-803a-992474e12506" />
 
 
