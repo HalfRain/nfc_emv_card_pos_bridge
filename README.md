@@ -76,6 +76,9 @@ nfcbridge/
 
 ## 联系方式
 
-如有任何问题或建议,请通过Issue或以下方式联系我:
+如有任何问题或建议,请通过Issue或以下方式联系我,请注明来意:
 
 - Email: [weitengfei0212@gmail.com]
+- ✈️ :<img width="784" height="828" alt="wechat_2025-08-28_155843_282" src="https://github.com/user-attachments/assets/6601dc6f-c9ee-42bb-bc58-2e3d8a9906cd" />
+- Wechat:
+
