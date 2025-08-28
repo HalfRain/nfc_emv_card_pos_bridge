@@ -82,6 +82,6 @@ nfcbridge/
 
 - ✈️ :<img width="300" height="317" alt="tel_2025-08-28_155843_282" src="https://github.com/user-attachments/assets/d3379e24-87a5-4435-a10e-44199c6bfcc8" />
 
-- Wechat:<img width="300" height="327" alt="wechat_2025-08-28_155843_282" src="https://github.com/user-attachments/assets/c30cf81f-b340-48d5-803a-992474e12506" />
+- Wechat:<img width="300" height="367" alt="wechat_2025-08-28_155843_282" src="https://github.com/user-attachments/assets/c30cf81f-b340-48d5-803a-992474e12506" />
 
 
