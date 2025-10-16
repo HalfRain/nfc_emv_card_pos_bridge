@@ -7,6 +7,13 @@ NFC Bridge是一个创新的Android应用系统,实现了银行卡信息的无�
 
 ![IMG_8541](https://github.com/user-attachments/assets/d8b90670-2d28-4468-8cc6-72e0287f4474)
 
+## 最新版本交互界面
+
+<img width="430" height="932" alt="IMG_9961" src="https://github.com/user-attachments/assets/9820d263-f5b6-4e96-9374-2d1e169b998a" />
+<img  width="430" height="932" alt="IMG_9962" src="https://github.com/user-attachments/assets/8b92e699-c9c0-460a-8c84-0975acba9ffb" />
+<img  width="430" height="932" alt="IMG_9963" src="https://github.com/user-attachments/assets/ce4abf60-3a60-45c0-bdc0-680d8c545875" />
+
+
 ## 核心功能
 
 - **银行卡信息读取**:通过NFC技术读取EMV兼容的银行卡信息
