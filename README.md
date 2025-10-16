@@ -8,10 +8,16 @@ NFC Bridge是一个创新的Android应用系统,实现了银行卡信息的无�
 ![IMG_8541](https://github.com/user-attachments/assets/d8b90670-2d28-4468-8cc6-72e0287f4474)
 
 ## 最新版本交互界面
-从登陆-〉选择匹配的POS端-〉 pos端确认-〉贴卡-〉贴pos-〉支付成功
-<img width="430" height="932" alt="IMG_9961" src="https://github.com/user-attachments/assets/9820d263-f5b6-4e96-9374-2d1e169b998a" />
-<img  width="430" height="932" alt="IMG_9962" src="https://github.com/user-attachments/assets/8b92e699-c9c0-460a-8c84-0975acba9ffb" />
-<img  width="430" height="932" alt="IMG_9963" src="https://github.com/user-attachments/assets/ce4abf60-3a60-45c0-bdc0-680d8c545875" />
+### 从登陆-〉选择匹配的POS端-〉 pos端确认-〉贴卡-〉贴pos-〉支付成功
+<img width="430" height="932" alt="IMG_9965 " src="https://github.com/user-attachments/assets/e1537485-70ff-45d1-a475-e31e1f5aa941" />
+<img width="430" height="932" alt="IMG_9966" src="https://github.com/user-attachments/assets/c240debc-9ecd-4343-b1fc-aad764e4cac0" />
+
+<img width="430" height="932" alt="IMG_9968" src="https://github.com/user-attachments/assets/dec4febc-e2e7-426a-af5b-630742d29f0e" />
+<img width="430" height="932" alt="IMG_9971" src="https://github.com/user-attachments/assets/59df80ef-236f-4f4a-aaa8-ee033b209aaa" />
+
+<img width="430" height="932" alt="IMG_9972" src="https://github.com/user-attachments/assets/ded5d3ba-395f-4074-9c0c-cc93080ea172" />
+<img width="430" height="932" alt="IMG_9973" src="https://github.com/user-attachments/assets/c2724efa-1360-49fe-a549-16c4d0b64033" />
+
 
 
 ## 核心功能
